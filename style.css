@@ -34,7 +34,8 @@ nav {
 }
 
 .logo {
-  width: 140px;
+  width: 160px;
+  padding-top: 12px;
 }
 
 nav ul li {
